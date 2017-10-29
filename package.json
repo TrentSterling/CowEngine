@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "author": "encryptedcow",
   "license": "ISC",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/EncryptedCow/CowEngine.git"
+  },
   "scripts": {
     "start": "gulp dev",
     "build": "gulp build"
