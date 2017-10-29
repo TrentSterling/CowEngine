@@ -1,0 +1,19 @@
+{
+  "name": "cow-engine",
+  "version": "1.0.0",
+  "author": "encryptedcow",
+  "license": "ISC",
+  "scripts": {
+    "start": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "@types/pixi.js": "^4.5.7",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-typescript": "^3.2.3",
+    "run-sequence": "^2.2.0",
+    "typescript": "^2.5.3"
+  }
+}

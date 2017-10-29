@@ -1,0 +1,15 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "module": "system",
+        "target": "es6",
+        "lib": [ "es6", "dom" ],
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "preserveConstEnums": false,
+        "outFile": "game.js"
+    },
+    "filesGlob": [
+        "./src/**/*.ts"
+    ]
+}
